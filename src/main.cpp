@@ -6,8 +6,8 @@ const char* WIFI_SSID = "Wokwi-GUEST";
 const char* WIFI_PASS = "";
 
 //THINGSPEAK 
-const char* THINGSPEAK_WRITE_KEY = "ZBHRH9ILWVL14KNL";
-const char* THINGSPEAK_URL = "https://api.thingspeak.com/update?api_key=ZBHRH9ILWVL14KNL&field1=0";
+const char* THINGSPEAK_WRITE_KEY = "IM5MQDR2SV3OUN8R";
+const char* THINGSPEAK_URL = "https://api.thingspeak.com/update";
 
 //pines
 const int LED_PIN = 14;
